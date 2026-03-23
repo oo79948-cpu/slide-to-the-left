@@ -1,3 +1,3 @@
-#include <string>
+#pragma once
 
-std::string slide();
+void arrayShift(int *arr, int size, int shift);
